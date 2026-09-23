@@ -1,5 +1,14 @@
 # 🤖 AI JobMatch
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
+
+</div>
+
 ### AI-Powered Resume & Job Matching Platform
 
 AI JobMatch is a web-based platform designed to help job seekers discover **relevant jobs and internships based on their resume, skills, education, experience, and preferred location**.
@@ -76,6 +85,20 @@ AI JobMatch follows a structured multi-page application architecture rather than
 ## 🚀 Live Demo
 
 [AI JobMatch — Live Website](https://ai-job-match-jbpg4i4cd-muhammadnaveedgurmanii-pngs-projects.vercel.app/)
+
+---
+
+## 📸 Screenshots
+
+| Home | Resume Builder |
+|---|---|
+| ![Home](screenshots/Home.PNG) | ![Resume](screenshots/Resume.PNG) |
+
+| Job Listings | Matched Jobs |
+|---|---|
+| ![Jobs](screenshots/Jobs.PNG) | ![Job Matched](screenshots/Job%20Matched.PNG) |
+
+![About](screenshots/About.PNG)
 
 ---
 
